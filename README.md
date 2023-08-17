@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: vedudx (at) gmail (dot) com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
--->
+
 
 
 [![Vedant's Github stats](https://github-readme-stats.vercel.app/api?username=vedudx&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
