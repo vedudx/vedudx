@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 
 [![Vedant's Github stats](https://github-readme-stats.vercel.app/api?username=vedudx&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedudx&layout=compact&langs_count=10&bg_color=171c28&text_color=f5f0e1&title_color=eba830)
