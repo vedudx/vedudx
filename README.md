@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Reinforcement Learning 
 - 👯 I’m looking to collaborate on NLP, ML theory and RL projects
 <!-- - 🤔 I’m looking for help with -->
-<!-- - 💬 Ask me about -->
+ - 💬 Ask me about : Linear Algebra, Real Analysis, and Statistics
 - 📫 How to reach me: vedudx (at) gmail (dot) com
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
