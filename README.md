@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-<!-- ![Vedant's Github stats](https://github-readme-stats.vercel.app/api?username=vedudx&show_icons=true&theme=transparent) -->
+[Vedant's Github stats](https://github-readme-stats.vercel.app/api?username=vedudx&show_icons=true&theme=transparent)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vedudx&layout=compact&theme=transparent)
 
