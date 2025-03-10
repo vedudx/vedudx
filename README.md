@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Knowledge Distillation from LLM to smaller sized LM
+- 🔭 I’m currently working on Deep Reinforcement Learning
 - 🌱 I’m currently learning Reinforcement Learning 
 - 👯 I’m looking to collaborate on NLP, ML theory, ML Systems and RL projects
 - 💬 Ask me about : Linear Algebra, Real Analysis, and Statistics
